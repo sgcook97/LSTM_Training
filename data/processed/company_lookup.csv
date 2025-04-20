@@ -1,0 +1,62 @@
+Brand_Name,Ticker,Industry_Tag,Ticker_Encoded,Industry_Tag_Encoded
+peloton,PTON,fitness,46,9
+amd,AMD,technology,5,22
+adidas,ADDYY,apparel,3,0
+american express,AXP,finance,7,7
+puma,PMMAF,apparel,44,0
+visa,V,finance,58,7
+adobe,ADBE,technology,2,22
+unilever,UL,consumer goods,57,3
+cisco,CSCO,technology,15,22
+jpmorgan chase & co,JPM,finance,26,7
+lvmh,LVMUY,luxury goods,31,17
+airbnb,ABNB,hospitality,1,15
+marriott,MAR,hospitality,33,15
+zoominfo,ZI,technology,59,22
+toyota,TM,automotive,53,1
+hilton,HLT,hospitality,22,15
+mcdonald's,MCD,food,34,10
+the home depot,HD,retail,21,20
+mastercard,MA,finance,32,7
+johnson & johnson,JNJ,healthcare,25,14
+uber,UBER,technology,55,22
+procter & gamble,PG,consumer goods,41,3
+coinbase,COIN,cryptocurrency,11,4
+fedex,FDX,logistics,18,16
+3m,MMM,manufacturing,35,18
+nordstrom,JWN,retail,27,20
+philips,PHG,technology,42,22
+foot locker,FL,footwear,19,12
+netflix,NFLX,entertainment,37,6
+the coca-cola company,KO,food & beverage,28,11
+ubisoft,UBSFY,gaming,56,13
+crocs,CROX,footwear,14,12
+southwest airlines,LUV,aviation,30,2
+shopify,SHOP,e-commerce,49,5
+amazon,AMZN,e-commerce,6,5
+apple,AAPL,technology,0,22
+nike,NKE,apparel,38,0
+target,TGT,retail,52,20
+google,GOOGL,technology,20,22
+spotify,SPOT,music,50,19
+zoom video communications,ZM,technology,60,22
+the walt disney company,DIS,entertainment,17,6
+roblox,RBLX,gaming,47,13
+nintendo,NTDOY,gaming,39,13
+delta air lines,DAL,aviation,16,2
+microsoft,MSFT,technology,36,22
+costco,COST,retail,12,20
+american eagle outfitters,AEO,apparel,4,0
+hershey company,HSY,food & beverage,24,11
+tesla,TSLA,automotive,54,1
+pinterest,PINS,social media,43,21
+bmw group,BAMXF,automotive,8,1
+chipotle,CMG,food,10,10
+porsche,POAHY,automotive,45,1
+logitech,LOGI,technology,29,22
+colgate palmolive,CL,consumer goods,9,3
+salesforce / slack,CRM,technology,13,22
+nvidia,NVDA,technology,40,22
+starbucks,SBUX,food & beverage,48,11
+honda,HMC,automotive,23,1
+block,SQ,financial services,51,8
